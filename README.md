@@ -15,5 +15,5 @@ Instead, it's recommended to review the source of the script before downloading 
 ## Usage
 
 ```bash
-/bin/bash -c "$(curl -fsSL https://github.com/sashimi3/shell-tool-kit/main/init_wsl_python.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/sashimi3/shell-tool-kit/main/init_wsl_python.sh)"
 ```
